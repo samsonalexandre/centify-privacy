@@ -1,1 +1,0 @@
-# centify-privacy
